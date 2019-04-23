@@ -1,0 +1,34 @@
+#In this file you can edit kits description and some kit abilities options!
+BasicLore: '&7Basic and Standard kit!'
+PvPLore: '&7Stronger version of basic kit'
+KangarooLore: '&7Do doublejumps with your firework!'
+ArcherLore: '&7Start with bow and arrows!'
+TankLore: '&7Start with diamond amor and slowness 3'
+SnailLore: '&7On each hit you have a chance to give slowness'
+ViperLore: '&7On each hit you have a chance to give poison'
+StomperLore: '&7Smash your enemies'
+DeshfireLore: '&7Do a boost and put fire!'
+CriticalLore: '&7Have a chance to give a critical hit'
+GladiatorLore: '&7Challenge someone in a glass arena'
+ThorLore: '&7Throw thunders and be immune to them!'
+DoubleJumpLore: '&7Press space to do a doublejump'
+BomberLore: '&7Throw bombs in your enemies'
+WaspLore: '&7Start with a sharp 7 blaze rod'
+AirmanLore: '&7With this kit you can fly!'
+SwitcherLore: '&7Swaps places with your snowball'
+NinjaLore: '&7Press shift to teleport to your enemy'
+CactusLore: '&7Gets thorns armor!'
+PyroLore: '&7Starts with a fire bow and sword'
+JumperLore: '&7Starts with super jump 4!'
+TimelordLore: '&7Stops the time with your clock'
+FishermanLore: '&7Catch players with your fishing rod!'
+SpidermanLore: '&7Climb walls with your sword'
+WarperLore: '&7Start with enderpearls!'
+VampireLore: '&7Have a chance to drain blood of tour enemie you each hit'
+NarutoLore: '&7Becomes naruto and have kyuubi'
+SonicLore: '&7Do a boost and put poison!'
+
+#Modify the cooldown of some kits
+
+StomperCooldown: 30
+ThorCooldown: 5
