@@ -1,0 +1,104 @@
+Prefix: '&8[&cKitPvP&8] '
+Permission: '&cSorry, but you dont have the permission to use this.'
+CustomKillAndDeathMessage: true
+Message:
+  Kit: '&aYou have chosen kit &8- &a%kit%!'
+  KitUse: '&cYou have already taken a kit'
+  Death: '&aYou are killed by &7%player%'
+  Kill: '&cYou killed the player &7%player%'
+  Clear: '&cYou reset your kit'
+  KitPvpJoin-Message: '&eYou join in the kitpvp'
+  KitPvpLeave-Message: '&eYou leave the kitpvp'
+  BlockedCMD-OnKitPvP: '&eThis command cannot be perfomed on kitpvp!'
+JoinItem:
+  Lore: '&7Right click to open the kit menu'
+  Spawn: spawn %player%
+  OpenKitMenu: 'false'
+  JoinSound: 'true'
+SidermanKit:
+  Name: '&aWall Climber &7(Right click)'
+  Lore: '&7(Right click) wall climber'
+AirmanKit:
+  Name: '&aFly &7(Right click)'
+  Lore: '&7(Right click) to fly'
+Title:
+  KitTitle: '&aYou have chosen the kit'
+  KitSubTitle: '&aKit &8- &a%kit% !'
+  DeathTitle: '&cYou are killed'
+  DeathSubTitle: '&cby &7%player%'
+  JoinTitle: '&eYou joined on the kitpvp'
+  JoinSubTitle: '&eHave a great game!'
+  LeaveTitle: '&cYou leave the kitpvp!'
+  LeaveSubTitle: '&cTo join again use: /kitpvp join'
+  1v1Leave: '&aYou leave the 1v1'
+RespawnSound: true
+Sound:
+  Kit: ITEM_PICKUP
+  ShopMenu: CHEST_OPEN
+  KitUse: ENDERDRAGON_HIT
+  Soup: EAT
+  Fisherman: ENDERMAN_TELEPORT
+  Spiderman: SLIME_WALK
+  Respawn: LEVEL_UP
+  Join: LEVEL_UP
+  KitMenu: DOOR_CLOSE
+  SpongeUse: ENDERMAN_TELEPORT
+  BowlDrop: ITEM_PICKUP
+  ErrorMessage: ARROW_HIT
+  SucefullMessage: ORB_PICKUP
+  NoPermissionMessage: WITHER_SHOOT
+  SwitcherShoot: ENDERMAN_TELEPORT
+  Timelord: WITHER_SPAWN
+  Stomper: FIREWORK_BLAST
+  NarutoAbility: BLAZE_DEATH
+  CommandsSounds: BURP
+  ShopMenu-Click: LEVEL_UP
+  Streak: LEVEL_UP
+  Airman-Fly: ENDERMAN_SCREAM
+  DoubleJump-Ability: FIREWORK_BLAST2
+  StomperDamage: ANVIL_LAND
+  1v1: CLICK
+  ClickTest: CLICK
+EnableSoundsToAllCommands: true
+BlockPlayersBuilding: true
+EnableCommandBlockingInKitPvP: true
+DisableHungerOnKitPvP: true
+DisableDropsOnKitPvP: true
+DisablePickupItemsOnKitPvP: true
+Death:
+  Tell: You have died to %player%! You lost 50 coins.
+Kill:
+  Tell: You killed %player%, you earned 100 coins.
+SendIPAddressData: true
+BLOCKED_COMMANDS:
+- /warp
+- /spawn
+- /ewarp
+- /espawn
+- /server
+- /sw
+- /skywars
+- /bw
+- /bedwars
+- /mines
+status:
+  retaliado1:
+    kills: 2
+    mortes: 0
+  retaliado2:
+    kills: 2
+    mortes: 0
+Spawn:
+  World: world
+  X: 45.80294662701026
+  Y: 124.86933315841993
+  Z: -91.71575866737658
+  Pitch: 42.90001
+  Yaw: -9.5999975
+SpawnD:
+  World: world
+  X: 45.80294662701026
+  Y: 124.86933315841993
+  Z: -91.71575866737658
+  Pitch: 42.90001
+  Yaw: -9.5999975
